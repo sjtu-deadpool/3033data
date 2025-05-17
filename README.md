@@ -13,6 +13,7 @@ This project is a multi-modal movie recommendation system that integrates visual
 - requests, BeautifulSoup4
 - transformers (Hugging Face)
 - tqdm
+- dataset link: https://drive.google.com/drive/u/0/folders/1HJVO6_PCEX7AIyPygX3d9X4-rF6lnZDV
 
 ## API Keys Setup
 
