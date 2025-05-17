@@ -31,7 +31,7 @@ from io import BytesIO
 from tqdm import tqdm
 
 # TMDB API key
-TMDB_API_KEY = "6ba3eb883961b80c06d196906b976afe"
+TMDB_API_KEY = "Your_TMDB_API_Key_Here"
 
 # Predefined list of IMDb Top movie IDs (without 'tt' prefix)
 TOP_MOVIE_IDS = [
